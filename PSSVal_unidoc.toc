@@ -1,0 +1,14 @@
+\contentsline {title}{Validation of the Pulse Shape Simulation Tools}{1}{}
+\contentsline {abstract}{Abstract}{1}{}
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{}
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}Introduction}{1}{}
+\contentsline {section}{\numberline {II}Validation techniques}{1}{}
+\contentsline {subsection}{\numberline {A}Collimated $^{133}Ba$}{1}{}
+\contentsline {subsection}{\numberline {B}Calibration Data}{1}{}
+\contentsline {subsection}{\numberline {C}$^{60}Co$\nobreakspace {}Data}{2}{}
+\contentsline {subsection}{\numberline {D}Hi$\gamma \gamma $s\nobreakspace {}scans}{2}{}
+\contentsline {section}{\numberline {III}A test of our methods}{2}{}
+\contentsline {section}{\numberline {IV}{\sc Majorana}\ Analysis}{3}{}
+\contentsline {section}{\numberline {V}Journal Thoughts}{3}{}
